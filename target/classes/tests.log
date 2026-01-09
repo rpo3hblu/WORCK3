@@ -1,0 +1,6 @@
+2661 [main] INFO  Test.BookingServiceTest - Тест positiveCreateBookTest запущен
+2673 [main] DEBUG Test.BookingServiceTest - Формирование мока
+2867 [main] DEBUG Test.BookingServiceTest - Запись создана
+3041 [main] INFO  Test.BookingServiceTest - Тест failCreateBookTest запущен
+3042 [main] DEBUG Test.BookingServiceTest - Формирование мока
+3088 [main] DEBUG Test.BookingServiceTest - Возврат CantBookException
